@@ -205,7 +205,6 @@ write memory
 
 La documentación completa está en:
 
-- [`docs/Documentacion-Tecnica-Profesional.docx`](docs/Documentacion-Tecnica-Profesional.docx)
 - [`docs/Documentacion-Tecnica-Profesional.pdf`](docs/Documentacion-Tecnica-Profesional.pdf)
 
 ---
